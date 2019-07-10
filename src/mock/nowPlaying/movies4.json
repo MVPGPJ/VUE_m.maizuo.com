@@ -1,0 +1,421 @@
+{
+    "status": 0,
+    "data": {
+        "films": [{
+            "filmId": 4714,
+            "name": "他她他她",
+            "poster": "https://pic.maizuo.com/usr/movie/d906209530bf83c62050ce24eb09827a.jpg",
+            "actors": [{
+                "name": "刘一",
+                "role": "导演",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/169ebe76dc13ab236a0cba0e5fe80186.jpg"
+            }, {
+                "name": "范文芳",
+                "role": "演员",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/e72c83019dd35159d14e1022c355a2c3.jpg"
+            }, {
+                "name": "李铭顺",
+                "role": "演员",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/df3fd66892bbde2ed4ab41b8d6d5bbc3.jpg"
+            }, {
+                "name": "卢洋洋",
+                "role": "演员",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/463bffa69a6ab6a77d9f16daf0de4565.jpg"
+            }, {
+                "name": "戚玉武",
+                "role": "演员",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/46e98954d3513a9e1905e14ff568ad54.jpg"
+            }],
+            "director": "刘一",
+            "category": "剧情|悬疑",
+            "synopsis": "三年前的一场车祸，改变了所有人的命运。随着车祸肇事者的出狱，所有当事人都不得不面对残酷的真相，并审视自己的内心。复仇还是救赎？善念还是贪欲？都在人性的一念之间。",
+            "filmType": {
+                "name": "2D",
+                "value": 1
+            },
+            "nation": "中国大陆",
+            "language": "汉语 普通话",
+            "videoId": "XNDIzMzYwODcyOA==",
+            "premiereAt": 1562284800,
+            "timeType": 3,
+            "runtime": 88,
+            "item": {
+                "name": "2D",
+                "type": 1
+            },
+            "isPresale": true,
+            "isSale": false
+        }, {
+            "filmId": 4721,
+            "name": "潜行者",
+            "poster": "https://pic.maizuo.com/usr/movie/cf0ec2b6f4136a2df2bf735551c656ae.jpg",
+            "actors": [{
+                "name": "周冠南",
+                "role": "导演",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/a938a313359ccf3e246ee934e72b621b.jpg"
+            }, {
+                "name": "谭广源",
+                "role": "导演",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/3674f211be7a816037753e1e0f812f0e.jpg"
+            }, {
+                "name": "安志杰",
+                "role": "夏乾坤",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/21066fde666c937526423036e08f024b.jpg"
+            }, {
+                "name": "吴建豪",
+                "role": "侯虎",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/33c65372b4d87d92a8c514629b11d0a9.jpg"
+            }, {
+                "name": "伍允龙",
+                "role": "小伍",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/43dc266fa6bafe6dc185317fc479fd10.jpg"
+            }],
+            "director": "吕冠南 谭广源",
+            "category": "动作|犯罪|喜剧",
+            "synopsis": "故事开始于卧底警察潜伏黑帮，意外的坐上了黑帮老大的位置，不料被大毒枭设计一步步拖入公海的魔鬼运输船；恰逢此时，一支神秘的第三方部队正在展开他们的复仇计划，命运的纠葛从此开始。在三方力量的角逐中，激烈的搏斗、刀战、枪战、狙击战、遥控炸弹，层层升级步步惊心。在法与情，爱与恨，兄弟和女人之间，有些事情总要有人去做。",
+            "filmType": {
+                "name": "2D",
+                "value": 1
+            },
+            "nation": "中国大陆 中国香港",
+            "language": "汉语普通话",
+            "videoId": "",
+            "premiereAt": 1561680000,
+            "timeType": 3,
+            "runtime": 90,
+            "grade": "5.2",
+            "item": {
+                "name": "2D",
+                "type": 1
+            },
+            "isPresale": true,
+            "isSale": false
+        }, {
+            "filmId": 4733,
+            "name": "你咪理，我爱你！",
+            "poster": "https://pic.maizuo.com/usr/movie/95e8db631bcd94f25a20ea2193b9e2b0.jpg",
+            "actors": [{
+                "name": "王祖蓝",
+                "role": "导演",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/86048712d0108d02da532c7df5fa4041.jpg"
+            }, {
+                "name": "曾志伟",
+                "role": "演员",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/689ba925ff95ce79f9847d9fa8f34cf3.jpg"
+            }, {
+                "name": "毛舜筠",
+                "role": "演员",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/f9bac6b06c6e1ca344545efd14c29ab1.jpg"
+            }, {
+                "name": "容祖儿",
+                "role": "演员",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/66c2a693b25a25a0f34d4f4092971ef5.jpg"
+            }, {
+                "name": "王菀之",
+                "role": "演员",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/12fc4ffd83ddc351058d521b65a1d530.jpg"
+            }, {
+                "name": "郑恺",
+                "role": "演员",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/443befafa9ef434846b6ab47c5dda9d9.jpg"
+            }, {
+                "name": "郑秀文",
+                "role": "演员",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/afb3f2a929f1b369d80f03c938b400c4.jpg"
+            }],
+            "director": "王祖蓝",
+            "category": "喜剧|爱情|歌舞",
+            "synopsis": "自上帝造⼈以来，⼈间就诞生了千千万万个男⼈和女⼈的爱情故事。本片由十三个关于爱情的小故事组成，从个人、家庭、社会等不同层面出发，探讨这个永恒的人生议题——爱情！",
+            "filmType": {
+                "name": "2D",
+                "value": 1
+            },
+            "nation": "中国香港",
+            "language": "粤语",
+            "videoId": "XNDI0Mjk2MTI2NA==",
+            "premiereAt": 1561680000,
+            "timeType": 3,
+            "runtime": 89,
+            "grade": "6.4",
+            "item": {
+                "name": "2D",
+                "type": 1
+            },
+            "isPresale": true,
+            "isSale": false
+        }, {
+            "filmId": 4734,
+            "name": "别岁",
+            "poster": "https://pic.maizuo.com/usr/movie/76c34791a93c10afbeea834d05d05723.jpg",
+            "actors": [{
+                "name": "张琪东",
+                "role": "导演",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/4736d4f1aa8a88344349878580cf6930.jpg"
+            }, {
+                "name": "龚格尔",
+                "role": "陈乐",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/7a76a49d05def5921f98440ec2d3a292.jpg"
+            }, {
+                "name": "杨乔木",
+                "role": "陈小康",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/bc2ab7f0153c63d5b8d84937633ca377.jpg"
+            }, {
+                "name": "袁忠远",
+                "role": "周树达",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/b14b15747b1513d7a0cc00ab3efc7d2a.jpg"
+            }, {
+                "name": "朱峰",
+                "role": "林长明",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/c7845458a600871b80586be522d25cf1.jpg"
+            }],
+            "director": "张琪东",
+            "category": "剧情",
+            "synopsis": "下乡老知青周树达（袁忠远 饰）在返城大潮中，遗弃当地妻儿回到原籍，过上了高级知识分子生活。而在三十年后，周树达再次踏上了这片许久未见的土地试图弥补他曾经犯的过错。被他遗弃的儿子陈乐（龚格尔 饰）结束了八年的牢狱生活出狱后，遭遇妻子改嫁，并留给自己一个八岁患有自闭症的儿子。在好友帮助下，他找到一份修理厂的工作，并在出租屋里邂逅了性工作者雅茹（魏斯婷 饰）。然而在儿子多次被学校拒绝上学后，陈乐做了一件再次摧毁命运的事情……",
+            "filmType": {
+                "name": "2D",
+                "value": 1
+            },
+            "nation": "中国大陆",
+            "language": "汉语普通话",
+            "videoId": "XNDIyMjgyMDk2OA==",
+            "premiereAt": 1562025600,
+            "timeType": 3,
+            "runtime": 90,
+            "grade": "7.1",
+            "item": {
+                "name": "2D",
+                "type": 1
+            },
+            "isPresale": true,
+            "isSale": false
+        }, {
+            "filmId": 4645,
+            "name": "尺八·一声一世",
+            "poster": "https://pic.maizuo.com/usr/movie/c24fc5d02fa8df65456ee2a54d677e59.jpg",
+            "actors": [{
+                "name": "聿馨 ",
+                "role": "导演",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/c069afb64958d8eb1cbb57d822f5dbcb.jpg"
+            }, {
+                "name": "佐藤康夫",
+                "role": " 自己",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/f74cc4cacecf974cde84b51e86413471.jpg"
+            }, {
+                "name": "小凑昭尚",
+                "role": " 自己",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/c7625ccc266ba4dc305e8f27d257044c.jpg"
+            }],
+            "director": "聿馨",
+            "category": "纪录片",
+            "synopsis": "本片通过记录中国，日本，美国等地的尺八演奏家，制管师，学习者的生活，去见证在尺八之路上行走着的人们，通过他们不同阶段的经历与思考，折射出来古老的尺八在当下的困境与希望，也通过尺八去映照出每个人对生活，生命，世界的认知与感悟。　　尺八，由竹子根部制成的管状乐器，因管长一尺八寸得名。尺八源于中国，在南宋时期传至日本发展至今，成为日本传统乐器的代表；而在中国，尺八却日渐式微。20世纪末期，随着中日民间的文化交流活动的增加，尺八重新回到中国人的视野。",
+            "filmType": {
+                "name": "2D",
+                "value": 1
+            },
+            "nation": "中国大陆",
+            "language": "汉语普通话   日语 ",
+            "videoId": "",
+            "premiereAt": 1556668800,
+            "timeType": 2,
+            "runtime": 90,
+            "grade": "7.1",
+            "item": {
+                "name": "2D",
+                "type": 1
+            },
+            "isPresale": true,
+            "isSale": false
+        }, {
+            "filmId": 4118,
+            "name": "真相漩涡",
+            "poster": "https://pic.maizuo.com/usr/movie/b9e4817f0d242832283024dac0933499.jpg",
+            "actors": [{
+                "name": "盖·皮尔斯",
+                "role": "",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/3d070c8105e48b5c375b389efd4dc595.jpg"
+            }, {
+                "name": "皮尔斯·布鲁斯南",
+                "role": "",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/7aee91c223869960dbef82ec40d06dd9.jpg"
+            }, {
+                "name": "奥德娅·拉什",
+                "role": "",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/9b9a3819489e4e62ed01c56243f76c53.jpg"
+            }, {
+                "name": "明妮·德里弗",
+                "role": "",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/bc2e6eeea1080c8ecea8455198e9f2f0.jpg"
+            }],
+            "director": "西蒙·凯瑟",
+            "category": "剧情|悬疑|惊悚",
+            "synopsis": "埃文·贝赫场（ 盖·皮尔斯饰）是一所文科院校—艾迪生学院的哲学教授。这所学校位于一个风景如画的海滨小镇。埃文·贝赫场和他的妻子艾伦·贝赫（明妮·德瑞弗饰）、孩子泽尔达、亚当在这个美丽的小镇过着田园般的生活。然而 ，这种生活因埃文曾经与学生发生不正当关系而被打破。当学生乔伊斯（奥德娅·拉什饰）莫名其妙失踪时，人们纷纷把目光投向了埃文，他因此成为了这起失踪案的主要嫌疑人。原先幸福美满的家庭也因这件事变得支离破碎。警探马洛伊（皮尔斯·布鲁斯南饰）是这起案件的主要负责人。在埃文再次反击之前，马洛伊竭力想要揭开这起案件的真相。",
+            "filmType": {
+                "name": "2D",
+                "value": 1
+            },
+            "nation": "美国 瑞典",
+            "language": "英语",
+            "videoId": "",
+            "premiereAt": 1561075200,
+            "timeType": 3,
+            "runtime": 100,
+            "grade": "2",
+            "item": {
+                "name": "2D",
+                "type": 1
+            },
+            "isPresale": true,
+            "isSale": false
+        }, {
+            "filmId": 4688,
+            "name": "无所不能",
+            "poster": "https://pic.maizuo.com/usr/movie/ba82b06b227f3b27c618d9d053d55ea3.jpg",
+            "actors": [{
+                "name": "Sanjay Gupta",
+                "role": "导演",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/2df510f6e015adeee9ebe7a805872842.jpg"
+            }, {
+                "name": "赫里尼克·罗斯汉",
+                "role": "Rohan Bhatnagar",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/066d6a2f32c5401de2875a27e0eca718.jpg"
+            }, {
+                "name": "亚米·高塔姆",
+                "role": "Supriya Bhatnagar",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/ae17c935c46129c68ce5488c081a0227.jpg"
+            }],
+            "director": "Sanjay|Gupta",
+            "category": "动作|悬疑|犯罪",
+            "synopsis": "罗汉是个盲人，但他对生活积极向上的态度让他跟平常人没什么两样。经人介绍，他认识了独立自信的盲人女孩苏皮莉亚。本来不想结婚的苏皮莉亚在罗汉的带领下慢慢意识到了幸福是存在的，现实生活中两个负也可以得正。　　本应该“从此幸福生活在一起”的他们却在人生中遇到了最大的考验，第一次感觉到了自己是软弱的。　　两人到底遇到了什么事？罗汉会不会证明自己的爱是强大的？反正我看完后又一次相信了爱情。",
+            "filmType": {
+                "name": "2D",
+                "value": 1
+            },
+            "nation": "印度",
+            "language": " 印地语",
+            "videoId": "",
+            "premiereAt": 1559692800,
+            "timeType": 3,
+            "runtime": 133,
+            "grade": "7",
+            "item": {
+                "name": "2D",
+                "type": 1
+            },
+            "isPresale": true,
+            "isSale": false
+        }, {
+            "filmId": 4624,
+            "name": "港珠澳大桥",
+            "poster": "https://pic.maizuo.com/usr/movie/5794eafc05b48d9e61d34c23cf6b261b.jpg",
+            "actors": [{
+                "name": "闫东 ",
+                "role": "导演",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/bbf5a038a817e8ea53806460060277b3.jpg"
+            }],
+            "director": "闫东",
+            "category": "纪录片",
+            "synopsis": "本片以港珠澳大桥建设最后一节沉管E30 号沉放安装过程为叙述主线，表现了中国桥梁建设者们自力更生、“敢为天下先”的创新精神和艰苦卓绝的奋斗历程，展示了大桥项目涉及水文、地质、白海豚、防台风和满足通航、海事、航空限高等复杂的建设难题，并将大桥主体工程桥、岛、隧三大部分的设计理念和世界领先的关键技术，如万花筒般呈现出来。",
+            "filmType": {
+                "name": "2D",
+                "value": 1
+            },
+            "nation": "中国大陆   香港   澳门",
+            "language": "汉语普通话",
+            "videoId": "",
+            "premiereAt": 1556668800,
+            "timeType": 3,
+            "runtime": 70,
+            "grade": "7.1",
+            "item": {
+                "name": "2D",
+                "type": 1
+            },
+            "isPresale": true,
+            "isSale": false
+        }, {
+            "filmId": 4674,
+            "name": "哆啦A梦：大雄的月球探险记",
+            "poster": "https://pic.maizuo.com/usr/movie/7bf91fee20b65aa9d7e1864b8e058088.jpg",
+            "actors": [{
+                "name": "八锹新之介 ",
+                "role": "导演",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/3bcbbc9efe561541bc969e8416229acf.jpg"
+            }, {
+                "name": "大原惠美",
+                "role": " 配音",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/ba637d720946cd81088902dcaae22586.jpg"
+            }, {
+                "name": "水田山葵",
+                "role": " 配音",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/11e13e3644c2cc4255c353fecac6e035.jpg"
+            }, {
+                "name": "嘉数由美",
+                "role": " 配音",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/395d7b8c93f10f1979f2204c9e4f97af.jpg"
+            }],
+            "director": "八锹新之介",
+            "category": "剧情|动画",
+            "synopsis": "月球探测器在月亮上捕捉到了白影，大雄认为这道白影是月亮上的兔子，惹来了大家的耻笑，于是哆啦A 梦为了帮助大雄，利用道具“异说俱乐部徽章”，在月球背面制造了一个兔子王国。一天，神秘少年露卡转学而来，与大雄和伙伴们一同前往月亮上的月兔王国展开了一场别开生面的浪漫想象力之旅。",
+            "filmType": {
+                "name": "2D",
+                "value": 1
+            },
+            "nation": "日本",
+            "language": "日语",
+            "videoId": "",
+            "premiereAt": 1559347200,
+            "timeType": 3,
+            "runtime": 111,
+            "grade": "7.4",
+            "item": {
+                "name": "2D",
+                "type": 1
+            },
+            "isPresale": true,
+            "isSale": false
+        }, {
+            "filmId": 4502,
+            "name": "命运之夜——天之杯：恶兆之花",
+            "poster": "https://pic.maizuo.com/usr/movie/6c71d78ccc68ea392bd12497e46a4b7e.jpg",
+            "actors": [{
+                "name": "须藤友德 ",
+                "role": "导演",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/adb6ffe9d8130511dfa7cc867b3baaf4.jpg"
+            }, {
+                "name": "神谷浩史 ",
+                "role": "配音",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/38bf7c041eaacff98097f3130734a8f0.jpg"
+            }, {
+                "name": "杉山纪彰",
+                "role": " 配音",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/8ff1123f2e7a0280176cd1dfba908bd0.jpg"
+            }, {
+                "name": "下屋则子 ",
+                "role": "配音",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/b58138c31deb1438834665361ec40f4e.jpg"
+            }],
+            "director": "须藤友德",
+            "category": "动画|奇幻",
+            "synopsis": "动画剧场版《命运之夜—— 天之杯：恶兆之花》，是TYPE-MOON发售的文字冒险游戏《Fate/stay night》中第三条剧情线，简称“HF”或“樱线”。在故事中，圣杯是传说中可实现持有者一切愿望的宝物。7位御主（Master）和7位从者（Servant）为了得到圣杯而相互厮杀的仪式被称为圣杯战争。　　「圣杯战争」发生十年后，冬木市再次迎来了战争，一股不安的氛围笼罩着全城。有人暗施诡计，让这场战争开始逐渐陷入混乱……",
+            "filmType": {
+                "name": "2D",
+                "value": 1
+            },
+            "nation": "日本",
+            "language": "日语",
+            "videoId": "",
+            "premiereAt": 1547164800,
+            "timeType": 3,
+            "runtime": 119,
+            "grade": "7",
+            "item": {
+                "name": "2D",
+                "type": 1
+            },
+            "isPresale": true,
+            "isSale": false
+        }],
+        "total": 50
+    },
+    "msg": "ok"
+}

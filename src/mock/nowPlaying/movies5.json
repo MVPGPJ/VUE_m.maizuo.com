@@ -1,0 +1,368 @@
+{
+    "status": 0,
+    "data": {
+        "films": [{
+            "filmId": 4508,
+            "name": "罗马",
+            "poster": "https://pic.maizuo.com/usr/movie/bbe6765e1540bf66ec04285e3bfa4a7e.jpg",
+            "actors": [{
+                "name": " 阿方索·卡隆",
+                "role": " 导演",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/abe317a972151863f6aee9478e579ba9.jpg"
+            }, {
+                "name": "雅利扎·阿巴里西奥",
+                "role": " Cleo",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/24604c2d7e5a5c972f6c517f0e2d59df.jpg"
+            }, {
+                "name": "玛丽娜·德·塔维拉",
+                "role": " Sra. Sofía",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/6c5264ab3b78b6ee189b89d5e2024814.jpg"
+            }, {
+                "name": "马科·格拉夫",
+                "role": "Pepe",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/a67f069b758d7935ce14020d532d7789.jpg"
+            }],
+            "director": "阿方索·卡隆",
+            "category": "剧情|家庭",
+            "synopsis": "故事发生在墨西哥城的一个中产阶级社区“罗马”，讲述年轻女佣克里奥（雅利扎·阿巴里西奥饰）在雇主索菲亚（玛丽娜·德·塔维拉饰）家中工作，该家中索菲亚的丈夫长期在外，由女佣克里奥照顾索菲的四个孩子。突如其来的两个意外，同时砸中了女佣克里奥和雇主索菲亚，两人究竟该如何面对苦涩茫然的生活？四位孩子似乎是希望所在。 这是以导演阿方索·卡隆的儿时记忆铸成的影片，而卡隆其实就是片中某一位小孩。",
+            "filmType": {
+                "name": "2D",
+                "value": 1
+            },
+            "nation": "墨西哥   美国",
+            "language": "西班牙语  米斯特克语",
+            "videoId": "XMzg2NDk1NjA2MA==",
+            "premiereAt": 1557446400,
+            "timeType": 3,
+            "runtime": 135,
+            "grade": "7.9",
+            "item": {
+                "name": "2D",
+                "type": 1
+            },
+            "isPresale": true,
+            "isSale": false
+        }, {
+            "filmId": 4640,
+            "name": "音乐家",
+            "poster": "https://pic.maizuo.com/usr/movie/81be6125140c89e62b10313c2eb612c1.jpg",
+            "actors": [{
+                "name": "胡军",
+                "role": "冼星海",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/9d59fa18abef86942c7515bfa1a416b5.jpg"
+            }, {
+                "name": "别里克·艾特占诺夫",
+                "role": "拜卡达莫夫",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/fb017307bfc4240e7acc9a13901861c7.jpg"
+            }, {
+                "name": "袁泉 ",
+                "role": "钱韵玲",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/8c604a277304c8d3c25bbfe3f7b94f87.jpg"
+            }],
+            "director": " 西尔扎提·亚合甫",
+            "category": "剧情|历史",
+            "synopsis": "《音乐家》根据冼星海在阿拉木图的经历改编，赞颂人民音乐家在异国他乡遭受苦难却仍心系祖国的伟大精神。战时艰苦，冼星海在哈萨克斯坦隐姓埋名，却不忘寻找机会回到祖国。同时他的音乐《黄河大合唱》在遥远的延安时刻鼓舞着艰苦抗战的人民，激励无数有志青年为祖国顽强斗争。而在阿拉木图，他的音乐才华使他结识了当地音乐家拜卡达莫夫。两人建立了深厚友谊，正是他的音乐让不同的民族凝聚在一起，共同克服困难。他所作的《阿曼盖尔德》便是这样文化互相影响包容后的一个成果，对当地人民产生深刻影响，为两国的友谊发展奠定了坚实基础。",
+            "filmType": {
+                "name": "2D",
+                "value": 1
+            },
+            "nation": "中国大陆  哈萨克斯坦",
+            "language": "汉语普通话  俄语",
+            "videoId": "",
+            "premiereAt": 1558051200,
+            "timeType": 3,
+            "runtime": 104,
+            "grade": "7.5",
+            "item": {
+                "name": "2D",
+                "type": 1
+            },
+            "isPresale": true,
+            "isSale": false
+        }, {
+            "filmId": 4710,
+            "name": "卡拉斯：为爱而声",
+            "poster": "https://pic.maizuo.com/usr/movie/5d914e5a69ed859eb24eb2e0e1ea55ea.jpg",
+            "actors": [{
+                "name": "汤姆·沃尔夫 ",
+                "role": "导演",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/9b2f3ec82051b66914aa04ef169d5e83.jpg"
+            }, {
+                "name": " 玛丽亚·卡拉斯",
+                "role": " 自己",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/79934837058ae14d815b8f46f8a5417b.jpg"
+            }, {
+                "name": " 维托里奥·德·西卡",
+                "role": " 自己",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/79c730f9a609ba93ba6f55814e9ed10e.jpg"
+            }],
+            "director": "汤姆·沃尔夫",
+            "category": "纪录片",
+            "synopsis": "玛丽亚·卡拉斯，20世纪最伟大的女高音，被誉为“歌剧女神”，她那美妙动人的歌喉演唱了《托斯卡》、《卡门》等无数经典之作。她与希腊船王的爱情悲歌、与杰奎琳·肯尼迪从未谋面但命运相连的纠葛，亦成旷世绝唱。2017年，卡拉斯去世四十周年之时，导演汤姆·沃尔夫历经五年走访卡拉斯的生前好友、相关人士，发掘并使用了大量从未面世的珍贵私信及影像资料，拍摄制作了《卡拉斯：为爱而声》，以玛丽亚·卡拉斯自己的视角，带我们走进她的传奇人生。2018年，本片在近30个国家上映，收获了全球赞誉并引发了乐迷的怀念热潮。影片中大量珍贵的歌剧现场影像，优质的经典原声唱段，宛若亲临大都会，在大银幕上体验传奇歌剧女神卡拉斯的震撼现场，探寻万众女神玛丽亚的传奇人生。",
+            "filmType": {
+                "name": "2D",
+                "value": 1
+            },
+            "nation": "法国",
+            "language": "英语  法语",
+            "videoId": "",
+            "premiereAt": 1559260800,
+            "timeType": 3,
+            "runtime": 118,
+            "grade": "7.1",
+            "item": {
+                "name": "2D",
+                "type": 1
+            },
+            "isPresale": true,
+            "isSale": false
+        }, {
+            "filmId": 4583,
+            "name": "特别追踪",
+            "poster": "https://pic.maizuo.com/usr/movie/bcaf7dd12f3a3f97fe4bffce6f85b6cd.jpg",
+            "actors": [{
+                "name": "周浩东",
+                "role": " 演员",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/c122ce597875ee65a4e3ac01fc7c2b03.jpg"
+            }, {
+                "name": "牛宝军 ",
+                "role": "演员",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/f40da7f276f91c20a7c2d272e48a0cc1.jpg"
+            }, {
+                "name": "李宜儒 ",
+                "role": "演员  ",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/59c53aa4d4aeb1caf835ee10a3587441.jpg"
+            }],
+            "director": "王启蘅",
+            "category": "犯罪",
+            "synopsis": "该片由最高人民法院影视中心、联播聚客（北京）国际传媒有限公司联合出品，山东省青岛市中级人民法院、青岛市即墨区人民法院联合摄制。影片通过讲述一个“拒不执行法院判决、裁定罪”的司法案例，刻画了失信被执行人在社会上遭遇的种种歧视与窘境，展现了各级人民法院开展执行攻坚的坚定决心，记录了法治中国建设的进步历程。",
+            "filmType": {
+                "name": "2D",
+                "value": 1
+            },
+            "nation": "中国大陆",
+            "language": "汉语普通话",
+            "videoId": "",
+            "premiereAt": 1537228800,
+            "timeType": 3,
+            "runtime": 100,
+            "grade": "7.6",
+            "item": {
+                "name": "2D",
+                "type": 1
+            },
+            "isPresale": true,
+            "isSale": false
+        }, {
+            "filmId": 4705,
+            "name": "废柴老爸",
+            "poster": "https://pic.maizuo.com/usr/movie/fe52e2530e23d83b96db2f4a6bba4764.jpg",
+            "actors": [{
+                "name": "王迅",
+                "role": "元大宝",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/bd0985707679def9a332349be0e40ee1.jpg"
+            }, {
+                "name": "黄灿灿 ",
+                "role": " Angela  ",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/e44c5745217db2746f101e13679915f0.jpg"
+            }, {
+                "name": "梁超 ",
+                "role": "高大尚  ",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/9f9b0467ca393cfdba2c4b76a25798f6.jpg"
+            }, {
+                "name": "张伦硕",
+                "role": " Joseph  ",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/7332a6cf2f6b3080571a568d6126aff1.jpg"
+            }],
+            "director": " 冯超",
+            "category": "喜剧|家庭",
+            "synopsis": "《废柴老爸》讲述了的是一对父子心智互换后，引发的一系列令人笑中深思的故事。游戏公司设计师元大宝是一位单身父亲，与儿子元小宝两人的性格截然不同。这样的反差令两人的父子感情时常“擦枪走火”。在一次意外中，两人被神秘魔术师互换了心智。换位后的元大宝和元小宝与学校老师、老板高大尚及融资经理Angela以及公司总监Joseph发生了一系列的误会和一系列的爆笑事件……",
+            "filmType": {
+                "name": "2D",
+                "value": 1
+            },
+            "nation": "中国大陆",
+            "language": "汉语普通话",
+            "videoId": "",
+            "premiereAt": 1560556800,
+            "timeType": 3,
+            "runtime": 90,
+            "grade": "7.1",
+            "item": {
+                "name": "2D",
+                "type": 1
+            },
+            "isPresale": true,
+            "isSale": false
+        }, {
+            "filmId": 1092,
+            "name": "霸王别姬",
+            "poster": "https://pic.maizuo.com/usr/100001092/171d791835698404ab56c7e18a4c5bce.jpg",
+            "director": "陈凯歌",
+            "category": "爱情|同性|音乐|战争",
+            "synopsis": "段小楼（张丰毅）与程蝶衣（张国荣）是一对打小一起长大的师兄弟，两人一个演生，一个饰旦，一向配合天衣无缝，尤其一出《霸王别姬》，更是誉满京城，为此，两人约定合演一辈子《霸王别姬》。但两人对戏剧与人生关系的理解有本质不同，段小楼深知戏非人生，程蝶衣则是人戏不分。　　段小楼在认为该成家立业之时迎娶了名妓菊仙（巩俐），致使程蝶衣认定菊仙是可耻的第三者，使段小楼做了叛徒，自此，三人围绕一出《霸王别姬》生出的爱恨情仇战开始随着时代风云的变迁不断升级，终酿成悲剧。",
+            "filmType": {
+                "name": "2D",
+                "value": 1
+            },
+            "nation": "中国大陆   香港",
+            "language": "国语",
+            "videoId": "",
+            "premiereAt": 725846400,
+            "timeType": 3,
+            "runtime": 171,
+            "grade": "2",
+            "item": {
+                "name": "2D",
+                "type": 1
+            },
+            "isPresale": true,
+            "isSale": false
+        }, {
+            "filmId": 1873,
+            "name": "有一天 ",
+            "poster": "https://pic.maizuo.com/usr/100001873/d48ad992aa0f28dd1f90e73b5d586098.jpg",
+            "director": "杜波|田原|李睿珺|张冀",
+            "category": "儿童",
+            "synopsis": "影片由9个温暖励志的小故事组成，讲述9个弱势儿童群体追梦的故事。9个故事分别关注的是：贫困儿童、读写困难儿童、智障儿童、被拐卖儿童、盲童、肥胖儿童、聋哑儿童、少数民族留守儿童、服刑人员子女。                                                                     　　《有一天》包含的九支短片：                                                                     　　《独唱乐团》-聋哑儿童 他们住在寂静无声的世界里，却能唱出最纯粹的歌。                                                                     　　《疯狂的面包》-智障儿童 他们终其一生都无法长大，但他们也拥有自己的悲伤快乐。                                                                     　　《回家的路》-被拐卖儿童 他们现在流落街头，但他们也曾是父母心头的宝贝。                                                                     　　《看不见的画》-视力障碍儿童 他们住在黑暗无光的世界里，却可能比我们看到更多。                                                                     　　《小笨蛋日记》-读写困难儿童 他们不会读课文，不会写作业，却可能是个小天才                                                                     　　《太阳会飞》-服刑人员子女 他们的父母在接受惩罚，但他们依然值得被疼爱。                                                                     　　《小小电影院》-贫困儿童 他们的生活中少有光影故事，但他们依然有权利放飞梦想。                                                                     　　《秋扎》-肥胖儿童 他们的生活或许沉重，但如果给他们多一些关注，他们也会散发光彩                                                                     　　《礼物》-留守儿童 他们的语言已经行将消失，但他们的文化依然是不一样的烟火",
+            "filmType": {
+                "name": "2D",
+                "value": 1
+            },
+            "nation": "中国大陆",
+            "language": "汉语普通话",
+            "videoId": "XNzY3NTQ0Njcy",
+            "premiereAt": 1410307200,
+            "timeType": 3,
+            "runtime": 90,
+            "grade": "2",
+            "item": {
+                "name": "2D",
+                "type": 1
+            },
+            "isPresale": true,
+            "isSale": false
+        }, {
+            "filmId": 4622,
+            "name": "武陵山上的星光",
+            "poster": "https://pic.maizuo.com/usr/movie/a185a1a51d05ff04bd54889c82ee6984.jpg",
+            "actors": [{
+                "name": "范浩军 ",
+                "role": " 施星灿",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/6aa1e6f7da00a0a43fafb84de86e6c90.jpg"
+            }, {
+                "name": "姜琳",
+                "role": " 周秀兰  ",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/e63c87de27b72a99b0b8933d5f232006.jpg"
+            }, {
+                "name": "王树风",
+                "role": "聂开奉",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/85e0079550281e06ec33656b4b43be13.jpg"
+            }],
+            "director": "张塞君",
+            "category": "剧情",
+            "synopsis": "该片通过施星灿扎根鄂西山区数十年，坚定共产党员为人民服务的理想信念，时刻把群众冷暖放在心上，与群众打成一片，吃苦在前，享乐在后，颂扬其忠于党、爱岗敬业、无私奉献、勇于担当的精神。该片是一部积极向上、鼓舞人心、真切感人的主旋律正能量影片，是继雷锋、焦裕禄、孔繁森等之后又一时代楷模影片。",
+            "filmType": {
+                "name": "2D",
+                "value": 1
+            },
+            "nation": "中国大陆",
+            "language": "汉语普通话",
+            "videoId": "",
+            "premiereAt": 1558137600,
+            "timeType": 3,
+            "runtime": 106,
+            "grade": "7.1",
+            "item": {
+                "name": "2D",
+                "type": 1
+            },
+            "isPresale": true,
+            "isSale": false
+        }, {
+            "filmId": 4649,
+            "name": "五月天人生无限公司",
+            "poster": "https://pic.maizuo.com/usr/movie/152c76844ac7cb2a70073b0af7fa0817.jpg",
+            "actors": [{
+                "name": "陈信宏 ",
+                "role": "自己",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/1ad97c2885b9122bd94113a6295d9e04.jpg"
+            }, {
+                "name": "石锦航",
+                "role": "自己",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/cf6d31ed4a7fb9d1c4afeb4b836a74b9.jpg"
+            }, {
+                "name": "蔡升晏",
+                "role": "自己",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/d28077b0edf7913963ae30ceea08b49b.jpg"
+            }, {
+                "name": "温尚翊",
+                "role": "自己",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/16100836a9b19311a9f9260c522d9037.jpg"
+            }, {
+                "name": "刘谚明",
+                "role": "自己",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/84b085480b3ec9a2a32e5eeed315128c.jpg"
+            }],
+            "director": "陈奕仁",
+            "category": "纪录片|音乐",
+            "synopsis": "一部电影拥有超过400万位演员，是怎样的体验？　　人生无限公司，每个参与过的人都是主演。　　每个“加班夜”都如此难舍难忘，　　演唱会内外，你的人生故事可有什么变与不变？五月天“人生无限公司”巡演，　　横跨四大洲、历时一年半、上百场巡回、超过400万观众，不断刷新纪录，不断创造新的感动。　　这部70亿人的自传，此刻翻越到下一章节：人生无限公司将在大银幕继续营业。",
+            "filmType": {
+                "name": "2D",
+                "value": 1
+            },
+            "nation": "台湾",
+            "language": "汉语普通话",
+            "videoId": "",
+            "premiereAt": 1558656000,
+            "timeType": 3,
+            "runtime": 100,
+            "grade": "7.1",
+            "item": {
+                "name": "2D",
+                "type": 1
+            },
+            "isPresale": true,
+            "isSale": false
+        }, {
+            "filmId": 4707,
+            "name": "三年",
+            "poster": "https://pic.maizuo.com/usr/movie/4158aba1b649a711a1cccd0ee40077f6.jpg",
+            "actors": [{
+                "name": "高明",
+                "role": " 陈书圆   陈氏族长",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/c6d5ebe549778db0b21519a277007d33.jpg"
+            }, {
+                "name": "肖聪",
+                "role": "牛国峰",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/270cd6effab629b6cfeed7d51a3816bb.jpg"
+            }, {
+                "name": "马文波",
+                "role": "柯伟华",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/1d35b922fd44b01acbbc28adeb654572.jpg"
+            }],
+            "director": "陈江",
+            "category": "剧情",
+            "synopsis": "影片《三年》聚焦在“精准扶贫”工作中的“扫黑除恶”与村霸恶势力，展开一场正义与邪恶的较量。以三年驻村帮扶期为时间轴，以常年工作和生活在乡村一线驻村帮扶干部为原型，以点点滴滴的帮扶实例实绩为蓝本，旨在生动展现党中央实施减贫战略的丰功伟绩和正确决策，坚决打赢精准扶贫，扫黑除恶攻坚战的真实案例。故事斗转千回，扣人心弦，耐人寻味。反映了新时代共产党人，为人民对党忠诚服务人民的感人故事。",
+            "filmType": {
+                "name": "2D",
+                "value": 1
+            },
+            "nation": " 中国大陆",
+            "language": "汉语普通话",
+            "videoId": "",
+            "premiereAt": 1560816000,
+            "timeType": 3,
+            "runtime": 99,
+            "grade": "7.1",
+            "item": {
+                "name": "2D",
+                "type": 1
+            },
+            "isPresale": true,
+            "isSale": false
+        }],
+        "total": 50
+    },
+    "msg": "ok"
+}
