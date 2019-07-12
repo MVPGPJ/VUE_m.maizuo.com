@@ -31,7 +31,7 @@ export default {
   async mounted() {
     this.$parent.id='ComingSoon'
     let host = "mall.film-ticket.film.list"
-    let cityID = cookie.getCookie("CITY_ID") ? cookie.getCookie("CITY_ID")[1] : 110110
+    let cityID = cookie.getCookie("CITY_ID") ? cookie.getCookie("CITY_ID")[1] : '360100'
     let params = {
         cityId: cityID,
         pageNum: 1,

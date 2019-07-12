@@ -47,7 +47,12 @@ export default {
   },
   mounted() {
     let name = cookie.getCookie("CITY_NAME");
-    this.city = name[1];
+    if(name){
+      this.city = name[1];
+    }else{
+      this.city = '南昌'
+    }
+    
   },
   watch: {
     $route(to, from) {

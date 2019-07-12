@@ -1,11 +1,10 @@
 <template>
   <li class="cinema-list-item">
-    <a
-      :href="'/cinema/'+cinemaItem.cinemaId+'/film'"
+    <router-link
+    tag="a"
+    :to="'/cinemas/'+cinemaItem.cinemaId+'/film'"
       :id="cinemaItem.cinemaId"
       class="cinema-item-wrap"
-      data-enter-time="1562314840"
-      data-click-fun="track_f_181723"
     >
       <div class="cinema-info-lf cinema-info">
         <span class="cinema-name">{{cinemaItem.name}}</span>
@@ -38,7 +37,7 @@
           <strong>距离未知</strong>
         </span>
       </div>
-    </a>
+    </router-link>
   </li>
 </template>
 

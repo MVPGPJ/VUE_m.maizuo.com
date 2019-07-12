@@ -2,14 +2,12 @@
   <div class="film-list-content" id>
     <div class="nowPlayingList-wrap">
       <ul infinite-scroll-disabled="loading" infinite-scroll-distance="100" class="nowPlayingList">
-       
-          <Moviesitem
-            v-for="movie in moviesList"
-            :movie="movie"
-            :key="movie.flimId"
-            from="NowPlaying"
-          ></Moviesitem>
-       
+        <Moviesitem
+          v-for="movie in moviesList"
+          :movie="movie"
+          :key="movie.flimId"
+          from="NowPlaying"
+        ></Moviesitem>
       </ul>
     </div>
   </div>
@@ -33,14 +31,14 @@ export default {
     this.$parent.id = "nowPlaying";
     let cityID = cookie.getCookie("CITY_ID")
       ? cookie.getCookie("CITY_ID")[1]
-      : 110110;
+      : '360100'
     let host = "mall.film-ticket.film.list";
     let params = {
       cityId: cityID,
       pageNum: 1,
       pageSize: 10,
       type: 1,
-      k: 1921859
+      k: 2478483
     };
 
     this.$nextTick(async () => {
