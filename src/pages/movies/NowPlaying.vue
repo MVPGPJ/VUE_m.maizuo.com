@@ -28,6 +28,8 @@ export default {
   },
 
   async mounted() {
+    cookie.setCookie("CITY_NAME", '南昌', 1);
+      cookie.setCookie("CITY_ID", '360100', 1);
     this.$parent.id = "nowPlaying";
     let cityID = cookie.getCookie("CITY_ID")
       ? cookie.getCookie("CITY_ID")[1]

@@ -1,5 +1,12 @@
 <template>
-    <div>
-        点击-->链接跳转至本人博客
+    <div class="y">
+
+        原网站的另一个项目
     </div>
 </template>
+
+<style lang="stylus" scoped>
+.y{
+    height 100%
+}
+</style>

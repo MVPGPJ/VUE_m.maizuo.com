@@ -73,8 +73,10 @@
       <div v-if="!(message == '')" class="cinema-search-result" style="display: block;">
         <div class="cinema-search-result-list" v-if="!(exp.length ==0)">
           <ul>
-            <li v-for="expItem in exp" :key="expItem.cinemaId" class="cinema-search-result-item">
-              <a :href="'#/cinema/'+expItem.cinemaId+'/film'" class="cinema-item-wrap">
+            <li v-for="expItem in exp" :key="expItem.cinemaId" class="cinema-search-result-item"  @click="push(expItem.cinemaId)">
+              <a :href="'#/cinemas/'+expItem.cinemaId+'/film'"
+              @click="push(expItem.cinemaId)" 
+              class="cinema-item-wrap">
                 <div class="cinema-info-lf cinema-info">
                   <span class="cinema-name">{{expItem.name}}</span>
                   <span class="cinema-address">{{expItem.address}}</span>
@@ -149,6 +151,9 @@ export default {
 
   },
   methods: {
+    push(id){
+      this.$router.push('/cinemas/'+id+'/film')
+    },
     cancel() {
       this.$router.push("/cinemas");
     },

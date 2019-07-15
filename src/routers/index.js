@@ -12,6 +12,8 @@ import Search from '../pages/cinemas/search/Search'
 import City from '../pages/city/City'
 import Detail from '../pages/movieDetail/Detail'
 import MovieTheatre from '../pages/cinemas/movieTheatre/MovieTheatre'
+import Theatre from '../pages/cinemas/movieTheatre/Theatre'
+import Login from '../pages/login/Login'
 
 Vue.use(VueRouter)
 
@@ -67,6 +69,11 @@ let routes = [
         component: MovieTheatre,
     },
     {
+        path: '/cinemas/:id/film/:ids',
+        name: 'movieTheatre_film',
+        component: Theatre,
+    },
+    {
         path: '/detail/:id',
         name: 'detail',
         component: Detail,
@@ -75,6 +82,11 @@ let routes = [
         path: '/city',
         name: 'city',
         component: City,
+    },
+    {
+        path: '/login',
+        name: 'login',
+        component: Login
     }
 ]
 

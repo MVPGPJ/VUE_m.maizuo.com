@@ -1,5 +1,5 @@
 <template>
-  <li class="cinema-item-detail" :id="recentlyItem.cinemaId">
+  <li @click="push(recentlyItem.cinemaId)" class="cinema-item-detail" :id="recentlyItem.cinemaId">
     <div class="cinema-item-text">{{recentlyItem.name}}</div>
   </li>
 </template>
@@ -8,7 +8,15 @@
 export default {
   props: {
     recentlyItem: Object
-  }
+  },
+  methods: {
+    push(id){
+      //  console.log(id)
+      //  console.log(this.$router.go)
+      //  /cinemas/1701/film/4730
+      this.$router.push('/cinemas/'+id+'/film')
+    }
+  },
 };
 </script>
 

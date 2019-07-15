@@ -87,8 +87,11 @@ export default {
         text: "┭┮﹏┭┮努力加载中",
         spinnerType: "fading-circle"
       });
-      let cityID = cookie.getCookie("CITY_ID") ? cookie.getCookie("CITY_ID")[1] : 110110
+      // let cityID = cookie.getCookie("CITY_ID") ? cookie.getCookie("CITY_ID")[1] : '110110'
 
+      let cityID = cookie.getCookie("CITY_ID")
+      ? cookie.getCookie("CITY_ID")[1]
+      : '360100'
       let params = {
         cityId: cityID,
         ticketFlag: 1,
